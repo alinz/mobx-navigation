@@ -1,0 +1,24 @@
+{
+  "name": "mobx-navigation",
+  "version": "1.0.0",
+  "description": "mobx implementation on top of react-navigation for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alinz/mobx-navigation.git"
+  },
+  "keywords": ["react-component", "react-native", "react-navigation", "mobx", "mobx-react"],
+  "author": {
+    "name": "Ali Najafizadeh",
+    "email": "a.najafizadeh@gmail.com",
+    "url": "http://github.com/alinz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alinz/mobx-navigation"
+  },
+  "homepage": "https://github.com/alinz/mobx-navigation"
+}
